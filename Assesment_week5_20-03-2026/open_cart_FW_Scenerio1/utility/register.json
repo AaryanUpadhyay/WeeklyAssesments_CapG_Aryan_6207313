@@ -1,0 +1,9 @@
+{
+  "user": {
+    "name": "Aryan Upadhyay",
+    "email": "aryan123@test.com",
+    "password": "Test@123",
+    "confirmPassword": "Test@123",
+    "mobile": 9876543210
+  }
+}
