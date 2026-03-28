@@ -13,7 +13,6 @@ This repository contains weekly Playwright automation assessment tasks.
 
 - TypeScript
 - Playwright
-- Node.js
 
 ## Setup
 
